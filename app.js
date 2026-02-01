@@ -9,7 +9,9 @@
             JavaScript!"); // Muestra una alerta console.log("¡Hola, mundo en la
             consola!"); console.log("¡"); console.log("¡Hola, mundo en la
             consola!"); console.log("¡Hola, mundo en la consola!");
-            console.log("!");
+            console.log("!"); let text = "12345"; let min = Math.min(...text);
+            let max = Math.max(...text); let text = "12345"; let min =
+            Math.min(...text); let max = Math.max(...text);
         </script>
     </body>
 </html>;
