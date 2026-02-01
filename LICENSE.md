@@ -1,1 +1,1 @@
-mimimimimimimi
+This is a license file.
