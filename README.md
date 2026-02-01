@@ -1,8 +1,6 @@
 # Nombre del Proyecto
 
-> Descripción breve y neutral del proyecto (1–2 líneas).  
-> Ejemplo: “Este repositorio contiene un proyecto de ejemplo con fines educativos.”
-
+Esto es un proyecto de ejemplo usado como demostracion del manejo correcto de git/github en referencia a un curso de becariado.
 ---
 
 ## Tabla de contenidos
