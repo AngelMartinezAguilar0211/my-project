@@ -7,7 +7,9 @@
         <script>
             // Este es un comentario en JavaScript alert("¡Hola, mundo desde
             JavaScript!"); // Muestra una alerta console.log("¡Hola, mundo en la
-            consola!"); // Imprime en la consola
+            consola!"); console.log("¡"); console.log("¡Hola, mundo en la
+            consola!"); console.log("¡Hola, mundo en la consola!");
+            console.log("!");
         </script>
     </body>
 </html>;
