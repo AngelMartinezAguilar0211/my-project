@@ -19,7 +19,9 @@
             20, c) = expression ([a, b] = [10, 20]) = expression ([ a, b ] = [
             10,20 ]) = expression(a, b, ...r) = expression (a = 400, b = 20, c)
             = expression ([a, b] = [10, 20]) = expression ([ a, b ] = [ 10, 20
-            ]) = expression(a, b, ...r) = expression
+            ]) = expression(a, b, ...r) = expression // How to Declare
+            variables: let x = 5; let y = 6; // How to Compute values: let z = x
+            + y; // I am a Comment. I do Nothing
         </script>
     </body>
 </html>;
