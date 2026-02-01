@@ -1,2 +1,5 @@
 *.class
 *.zip
+*.ex
+*.log
+*.tmp
