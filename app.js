@@ -11,20 +11,15 @@
             consola!"); console.log("¡Hola, mundo en la consola!");
             console.log("!"); let text = "12345"; let min = Math.min(...text);
             let max = Math.max(...text); let text = "12345"; let min =
-            Math.min(...text); let max = Math.max(...text);
-            (a, b, ...r) => expression
-            (a = 400, b = 20, c) => expression
-            ([a, b] = [10, 20]) => expression
-            ({ a, b } = { a: 10, b: 20 }) => expression(a, b, ...r) => expression
-            (a = 400, b = 20, c) => expression
-            ([a, b] = [10, 20]) => expression
-            ({ a, b } = { a: 10, b: 20 }) => expression(a, b, ...r) => expression
-            (a = 400, b = 20, c) => expression
-            ([a, b] = [10, 20]) => expression
-            ({ a, b } = { a: 10, b: 20 }) => expression(a, b, ...r) => expression
-            (a = 400, b = 20, c) => expression
-            ([a, b] = [10, 20]) => expression
-            ({ a, b } = { a: 10, b: 20 }) => expression
+            Math.min(...text); let max = Math.max(...text); (a, b, ...r) =
+            expression (a = 400, b = 20, c) = expression ([a, b] = [10, 20]) =
+            expression ([ a, b ] = 2) = expression(a, b, ...r) = expression (a =
+            400, b = 20, c) = expression ([a, b] = [10, 20]) = expression ([ a,
+            b ] = [ 10,20 ]) = expression(a, b, ...r) = expression (a = 400, b =
+            20, c) = expression ([a, b] = [10, 20]) = expression ([ a, b ] = [
+            10,20 ]) = expression(a, b, ...r) = expression (a = 400, b = 20, c)
+            = expression ([a, b] = [10, 20]) = expression ([ a, b ] = [ 10, 20
+            ]) = expression(a, b, ...r) = expression
         </script>
     </body>
 </html>;
