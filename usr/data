@@ -1,0 +1,14 @@
+name: John Doe
+age: 30
+email: john.doe@example.com
+address: 123 Main St, Anytown, USA
+phone: 555-1234
+website: www.johndoe.com
+bio: John is a software engineer with over 10 years of experience in developing web applications. He is passionate about creating innovative solutions that solve real-world problems.
+interests: programming, music, hiking
+hobbies: reading, cooking, traveling
+favorite_color: blue
+favorite_food: pizza
+favorite_movie: Inception
+favorite_book: The Hitchhiker's Guide to the Galaxy
+favorite_song: Bohemian Rhapsody
